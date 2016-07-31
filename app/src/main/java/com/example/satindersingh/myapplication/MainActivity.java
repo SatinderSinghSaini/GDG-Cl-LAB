@@ -5,6 +5,8 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.example.android.myapplication.R;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
